@@ -1,0 +1,80 @@
+========================================
+       TRADING SYSTEM - TRADE REPORT
+========================================
+
+Total Trades: 8
+
+----------------------------------------
+Trade ID:       1
+Buy Order ID:   1
+Sell Order ID:  2
+Trade Price:    Rs. 100.00
+Quantity:       5 units
+Trade Sequence: 3
+Total Value:    Rs. 500.00
+
+----------------------------------------
+Trade ID:       2
+Buy Order ID:   3
+Sell Order ID:  5
+Trade Price:    Rs. 100.00
+Quantity:       3 units
+Trade Sequence: 7
+Total Value:    Rs. 300.00
+
+----------------------------------------
+Trade ID:       3
+Buy Order ID:   6
+Sell Order ID:  4
+Trade Price:    Rs. 110.00
+Quantity:       2 units
+Trade Sequence: 9
+Total Value:    Rs. 220.00
+
+----------------------------------------
+Trade ID:       4
+Buy Order ID:   8
+Sell Order ID:  7
+Trade Price:    Rs. 105.00
+Quantity:       2 units
+Trade Sequence: 12
+Total Value:    Rs. 210.00
+
+----------------------------------------
+Trade ID:       5
+Buy Order ID:   8
+Sell Order ID:  4
+Trade Price:    Rs. 110.00
+Quantity:       1 units
+Trade Sequence: 13
+Total Value:    Rs. 110.00
+
+----------------------------------------
+Trade ID:       6
+Buy Order ID:   11
+Sell Order ID:  9
+Trade Price:    Rs. 100.00
+Quantity:       2 units
+Trade Sequence: 17
+Total Value:    Rs. 200.00
+
+----------------------------------------
+Trade ID:       7
+Buy Order ID:   11
+Sell Order ID:  10
+Trade Price:    Rs. 100.00
+Quantity:       1 units
+Trade Sequence: 18
+Total Value:    Rs. 100.00
+
+----------------------------------------
+Trade ID:       8
+Buy Order ID:   12
+Sell Order ID:  10
+Trade Price:    Rs. 100.00
+Quantity:       1 units
+Trade Sequence: 20
+Total Value:    Rs. 100.00
+
+----------------------------------------
+End of Trade Report
